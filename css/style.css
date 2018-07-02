@@ -1,0 +1,17 @@
+h1, p {
+	color: #980C3F;
+	font-family: cursive;
+	margin:auto;
+	padding: 10px;
+	text-align: left;
+}
+img {
+	width: 80px;
+	position: relative;
+	float: left;
+}
+#header {
+	background: -webkit-linear-gradient(top, #f8f8ff, #4876ff);
+	background: -moz-linear-gradient(top, #f8f8ff, #4876ff);
+	background: -o-linear-gradient(top, #f8f8ff, #4876ff);
+}
